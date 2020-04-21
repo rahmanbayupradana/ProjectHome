@@ -9,3 +9,7 @@ di project ini terdapat
 
 
 #Screenshot
+
+
+
+![ic1](https://user-images.githubusercontent.com/63640844/79878873-21d65e80-8418-11ea-8eb8-d4771b1ee71a.jpg)
